@@ -1,7 +1,7 @@
 <!-- Headings -->
 # Newsletter LMS Hack (demo HTML w/o CSS)
 ___
-## URL: (none currently)
+## URL: (private)
 ## Author: Stan Shelton
 ## Email: support@datapandemonium.com
 ### Data Panda LLC is a database and database services company
